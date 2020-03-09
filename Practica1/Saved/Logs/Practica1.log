@@ -4502,3 +4502,196 @@ Make sure 'FPSGameInstance_C' has been compiled for  Load Game
 [2020.03.09-15.18.55:971][105]LogHttp: Warning: 000001A7C11CC7C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2020.03.09-15.18.55:971][105]LogHttp: Warning: 000001A7C11CC7C0: libcurl info message cache 7 (Closing connection 44)
 [2020.03.09-15.18.55:971][105]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B90E668-4611-E9B4-7034-388FB1294CEB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=9ebde9e145e30e2e910a008a72fd0153%7C0ed2fe3289b94350bac7717a389642c3%7Ceb25f3e5-f095-4ccf-9251-e8665f2c8637&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.09-15.20.27:232][988]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Albert\Desktop\Save Icon.png)
+[2020.03.09-15.20.27:237][988]LogTexture: Display: Building textures: Save_Icon (AutoDXT, 512X512)
+[2020.03.09-15.20.31:431][235]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Saved/Save_Icon825C37564C169D9A3DD9958041BA9513.tmp' to '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Content/Assets/UI/Save_Icon.uasset'
+[2020.03.09-15.20.31:449][235]AssetCheck: New page: Asset Save: Save_Icon
+[2020.03.09-15.20.31:449][235]LogContentValidation: Display: Validating Texture2D /Game/Assets/UI/Save_Icon.Save_Icon
+[2020.03.09-15.20.38:456][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.03.09-15.20.39:302][652]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Saved/LandscapeE61D2E0C4107B2F249181FBE6D7018D5.tmp' to '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Content/Landscape/Landscape.umap'
+[2020.03.09-15.20.39:380][652]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Saved/Landscape_BuiltData3D138A6C4EFB3F00A1E7BDA00AC71DE0.tmp' to '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Content/Landscape/Landscape_BuiltData.uasset'
+[2020.03.09-15.20.39:399][652]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.09-15.20.39:399][652]LogContentValidation: Display: Validating World /Game/Landscape/Landscape.Landscape
+[2020.03.09-15.20.39:399][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Landscape/Landscape_BuiltData.Landscape_BuiltData
+[2020.03.09-15.20.44:863][914]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-15.20.44:863][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.20.44:866][914]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-15.20.44:867][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.22.40:051][110]LogEditorTransaction: Undo Edit Image
+[2020.03.09-15.22.59:779][257]BlueprintLog: New page: Compile PauseMenu
+[2020.03.09-15.22.59:829][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.03.09-15.23.00:334][279]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Saved/PauseMenu4E1949D940493195812D638EFA1FDF0E.tmp' to '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Content/Blueprints/Entrega_2/HUD/PauseMenu.uasset'
+[2020.03.09-15.23.00:348][279]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.09-15.23.00:348][279]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Entrega_2/HUD/PauseMenu.PauseMenu
+[2020.03.09-15.23.07:143][660]LogEditorTransaction: Undo Move Widget
+[2020.03.09-15.23.19:995][239]BlueprintLog: New page: Compile PauseMenu
+[2020.03.09-15.23.20:041][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.03.09-15.23.23:746][455]LogEditorTransaction: Undo Resize Widget
+[2020.03.09-15.23.25:102][521]BlueprintLog: New page: Compile PauseMenu
+[2020.03.09-15.23.25:145][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.03.09-15.23.25:670][543]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Saved/PauseMenu8C6453CA4A73E5E26A7FAFA29DB1B843.tmp' to '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Content/Blueprints/Entrega_2/HUD/PauseMenu.uasset'
+[2020.03.09-15.23.25:686][543]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.09-15.23.25:686][543]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Entrega_2/HUD/PauseMenu.PauseMenu
+[2020.03.09-15.23.36:078][ 48]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 68288
+[2020.03.09-15.23.36:079][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.23.36:086][ 49]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.09-15.23.36:090][ 49]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.09-15.23.36:096][ 49]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.09-15.23.36:097][ 49]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.09-15.23.36:099][ 49]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.09-15.23.36:101][ 49]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.09-15.23.58:511][392]BlueprintLog: New page: Compile PauseMenu
+[2020.03.09-15.23.58:557][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.03.09-15.23.59:072][415]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Saved/PauseMenu63C5327F4FD0DFC7FF4801BF855EEFD2.tmp' to '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Content/Blueprints/Entrega_2/HUD/PauseMenu.uasset'
+[2020.03.09-15.23.59:090][415]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.09-15.23.59:090][415]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Entrega_2/HUD/PauseMenu.PauseMenu
+[2020.03.09-15.24.00:411][493]LogSlate: Window 'PauseMenu' being destroyed
+[2020.03.09-15.24.00:415][493]LogSlate: Window 'PauseMenu' being destroyed
+[2020.03.09-15.24.00:419][493]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-15.24.00:420][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.24.00:442][493]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-15.24.00:442][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.24.00:998][523]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.09-15.24.01:017][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Landscape/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Landscape/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.03.09-15.24.01:017][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.09-15.24.01:017][523]PIE: New page: PIE session: Landscape (Mar 9, 2020, 5:24:01 PM)
+[2020.03.09-15.24.01:017][523]LogPlayLevel: Creating play world package: /Game/Landscape/UEDPIE_0_Landscape
+[2020.03.09-15.24.01:693][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.676115s)
+[2020.03.09-15.24.01:694][523]LogAIModule: Creating AISystem for world Landscape
+[2020.03.09-15.24.01:694][523]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2020.03.09-15.24.01:694][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Landscape/Landscape.Landscape to /Game/Landscape/UEDPIE_0_Landscape.Landscape (0.677243s)
+[2020.03.09-15.24.01:727][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.03.09-15.24.01:728][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.09-15.24.01:728][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.09-15.24.01:728][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.09-15.24.01:728][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.09-15.24.01:728][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.09-15.24.01:728][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.09-15.24.01:728][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.09-15.24.01:728][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.09-15.24.01:728][523]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.09-15.24.01:728][523]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.09-15.24.01:733][523]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.09-15.24.01:733][523]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.03.09-15.24.01:733][523]LogAudioMixer: Display: Is Default: Yes
+[2020.03.09-15.24.01:733][523]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.09-15.24.01:733][523]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.09-15.24.01:733][523]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.09-15.24.01:733][523]LogAudioMixer: Display: Channel Order:
+[2020.03.09-15.24.01:733][523]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.09-15.24.01:733][523]LogAudioMixer: Display: 1: FrontRight
+[2020.03.09-15.24.01:779][523]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.03.09-15.24.01:781][523]LogInit: FAudioDevice initialized.
+[2020.03.09-15.24.01:810][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-15.24.01:811][523]LogLoad: Game class is 'FPSGameMode_C'
+[2020.03.09-15.24.01:824][523]LogWorld: Bringing World /Game/Landscape/UEDPIE_0_Landscape.Landscape up for play (max tick rate 60) at 2020.03.09-16.24.01
+[2020.03.09-15.24.01:824][523]LogWorld: Bringing up level for play took: 0.012751
+[2020.03.09-15.24.01:825][523]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.03.09-15.24.01:834][523]PIE: Play in editor start time for /Game/Landscape/UEDPIE_0_Landscape 0.973
+[2020.03.09-15.24.01:834][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Landscape/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Landscape/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.03.09-15.24.04:024][646]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.09-15.24.15:474][330]LogSlate: Window 'Practica1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.09-15.24.15:480][330]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Landscape/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Landscape/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.03.09-15.24.15:480][330]LogWorld: BeginTearingDown for /Game/Landscape/UEDPIE_0_Landscape
+[2020.03.09-15.24.15:480][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-15.24.15:481][330]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-15.24.15:484][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.24.15:494][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.09-15.24.15:494][330]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Landscape/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Landscape/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.03.09-15.24.15:500][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.24.15:532][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-15.24.15:558][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.03.09-15.24.15:583][331]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.03.09-15.24.16:834][405]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.09-15.24.16:853][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Landscape/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Landscape/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.03.09-15.24.16:854][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.09-15.24.16:854][405]PIE: New page: PIE session: Landscape (Mar 9, 2020, 5:24:16 PM)
+[2020.03.09-15.24.16:854][405]LogPlayLevel: Creating play world package: /Game/Landscape/UEDPIE_0_Landscape
+[2020.03.09-15.24.17:538][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.684114s)
+[2020.03.09-15.24.17:538][405]LogAIModule: Creating AISystem for world Landscape
+[2020.03.09-15.24.17:539][405]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2020.03.09-15.24.17:539][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Landscape/Landscape.Landscape to /Game/Landscape/UEDPIE_0_Landscape.Landscape (0.685109s)
+[2020.03.09-15.24.17:572][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.03.09-15.24.17:573][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.09-15.24.17:573][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.09-15.24.17:573][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.09-15.24.17:573][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.09-15.24.17:573][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.09-15.24.17:573][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.09-15.24.17:573][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.09-15.24.17:573][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.09-15.24.17:573][405]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.09-15.24.17:573][405]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.09-15.24.17:577][405]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.09-15.24.17:577][405]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.03.09-15.24.17:577][405]LogAudioMixer: Display: Is Default: Yes
+[2020.03.09-15.24.17:577][405]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.09-15.24.17:577][405]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.09-15.24.17:577][405]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.09-15.24.17:577][405]LogAudioMixer: Display: Channel Order:
+[2020.03.09-15.24.17:577][405]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.09-15.24.17:577][405]LogAudioMixer: Display: 1: FrontRight
+[2020.03.09-15.24.17:622][405]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.03.09-15.24.17:624][405]LogInit: FAudioDevice initialized.
+[2020.03.09-15.24.17:651][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-15.24.17:651][405]LogLoad: Game class is 'FPSGameMode_C'
+[2020.03.09-15.24.17:667][405]LogWorld: Bringing World /Game/Landscape/UEDPIE_0_Landscape.Landscape up for play (max tick rate 60) at 2020.03.09-16.24.17
+[2020.03.09-15.24.17:668][405]LogWorld: Bringing up level for play took: 0.015565
+[2020.03.09-15.24.17:668][405]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2020.03.09-15.24.17:677][405]PIE: Play in editor start time for /Game/Landscape/UEDPIE_0_Landscape 0.815
+[2020.03.09-15.24.17:677][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Landscape/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Landscape/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.03.09-15.24.20:634][575]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.09-15.24.24:992][835]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.09-15.24.27:360][977]LogNet: Browse: /Game/Landscape/Landscape
+[2020.03.09-15.24.27:360][977]LogLoad: LoadMap: /Game/Landscape/Landscape
+[2020.03.09-15.24.27:360][977]LogWorld: BeginTearingDown for /Game/Landscape/UEDPIE_0_Landscape
+[2020.03.09-15.24.27:361][977]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-15.24.27:363][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.24.27:363][977]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-15.24.27:417][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.03.09-15.24.27:419][977]LogPlayLevel: Creating play world package: /Game/Landscape/UEDPIE_0_Landscape
+[2020.03.09-15.24.28:081][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.662983s)
+[2020.03.09-15.24.28:083][977]LogAIModule: Creating AISystem for world Landscape
+[2020.03.09-15.24.28:083][977]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2020.03.09-15.24.28:083][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Landscape/Landscape.Landscape to /Game/Landscape/UEDPIE_0_Landscape.Landscape (0.664577s)
+[2020.03.09-15.24.28:083][977]LogLoad: Game class is 'FPSGameMode_C'
+[2020.03.09-15.24.28:094][977]LogWorld: Bringing World /Game/Landscape/UEDPIE_0_Landscape.Landscape up for play (max tick rate 60) at 2020.03.09-16.24.28
+[2020.03.09-15.24.28:095][977]LogWorld: Bringing up level for play took: 0.010663
+[2020.03.09-15.24.28:100][977]LogLoad: Took 0.740475 seconds to LoadMap(/Game/Landscape/UEDPIE_0_Landscape)
+[2020.03.09-15.24.31:447][172]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.09-15.24.32:581][240]LogNet: Browse: /Game/Landscape/MainMenu
+[2020.03.09-15.24.32:582][240]LogLoad: LoadMap: /Game/Landscape/MainMenu
+[2020.03.09-15.24.32:582][240]LogWorld: BeginTearingDown for /Game/Landscape/UEDPIE_0_Landscape
+[2020.03.09-15.24.32:582][240]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-15.24.32:584][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.24.32:585][240]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-15.24.32:640][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.03.09-15.24.32:651][240]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.09-15.24.32:651][240]LogLoad: Game class is 'GameMode'
+[2020.03.09-15.24.32:653][240]LogWorld: Bringing World /Game/Landscape/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.03.09-16.24.32
+[2020.03.09-15.24.32:654][240]LogWorld: Bringing up level for play took: 0.001413
+[2020.03.09-15.24.32:654][240]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.09-15.24.32:654][240]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.09-15.24.32:654][240]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.09-15.24.32:654][240]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.09-15.24.32:655][240]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.09-15.24.32:655][240]LogLoad: Took 0.073355 seconds to LoadMap(/Game/Landscape/MainMenu)
+[2020.03.09-15.24.33:071][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-15.24.33:071][265]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Landscape/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Landscape/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.03.09-15.24.33:071][265]LogWorld: BeginTearingDown for /Game/Landscape/UEDPIE_0_MainMenu
+[2020.03.09-15.24.33:092][265]LogSlate: Window 'Practica1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.09-15.24.33:096][265]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-15.24.33:096][265]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-15.24.33:096][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.24.33:106][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.09-15.24.33:106][265]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Landscape/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Landscape/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Landscape/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.03.09-15.24.33:111][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-15.24.33:144][265]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-15.24.33:153][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.03.09-15.24.33:176][266]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2020.03.09-15.24.35:231][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.03.09-15.24.36:082][385]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Saved/Landscape2E0070AC4F0D306918ADDFBFC3BBAD4D.tmp' to '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Content/Landscape/Landscape.umap'
+[2020.03.09-15.24.36:163][385]LogSavePackage: Moving '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Saved/Landscape_BuiltData9F138203470E16888469079255450E9A.tmp' to '../../../../../../Users/Albert/Desktop/3r GDPV/2n Trimestre/Motors de Jocs/PracticaMotorsdeJocs/Practica1/Content/Landscape/Landscape_BuiltData.uasset'
+[2020.03.09-15.24.36:180][385]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.09-15.24.36:180][385]LogContentValidation: Display: Validating World /Game/Landscape/Landscape.Landscape
+[2020.03.09-15.24.36:181][385]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Landscape/Landscape_BuiltData.Landscape_BuiltData
